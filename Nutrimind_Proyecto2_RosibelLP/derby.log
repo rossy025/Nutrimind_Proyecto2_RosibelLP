@@ -1,0 +1,31 @@
+Sat Aug 09 16:25:42 CST 2025 : Servidor de red Apache Derby: Se ha iniciado 10.17.1.0 - (1913217) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sat Aug 09 16:35:44 CST 2025:
+ Iniciando instancia a816c00e-0198-90f0-9381-00005789e158 de Derby, versión The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): 
+en el directorio de base de datos C:\Users\carri\OneDrive\Documentos\GitHub\Nutrimind_Proyecto2_RosibelLP\Nutrimind_Proyecto2_RosibelLP\Proyecto con el cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a
+Cargado desde file:/C:/Users/carri/Downloads/db-derby-10.17.1.0-bin/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=24.0.1+9-30
+user.dir=C:\Users\carri\Downloads\db-derby-10.17.1.0-bin\db-derby-10.17.1.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\carri\OneDrive\Documentos\GitHub\Nutrimind_Proyecto2_RosibelLP\Nutrimind_Proyecto2_RosibelLP
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 09 16:35:45 CST 2025:
+Cerrando la instancia a816c00e-0198-90f0-9381-00005789e158 en el directorio de base de datos C:\Users\carri\OneDrive\Documentos\GitHub\Nutrimind_Proyecto2_RosibelLP\Nutrimind_Proyecto2_RosibelLP\Proyecto con cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a
+Sat Aug 09 16:35:45 CST 2025 Thread[#29,DRDAConnThread_2,5,main] (DATABASE = Proyecto), (DRDAID = {2}), Cierre de la base de datos 'Proyecto'.
+----------------------------------------------------------------
+Sat Aug 09 16:36:03 CST 2025:
+ Iniciando instancia 97e00100-0198-90f0-9381-00005789e158 de Derby, versión The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): 
+en el directorio de base de datos C:\Users\carri\OneDrive\Documentos\GitHub\Nutrimind_Proyecto2_RosibelLP\Nutrimind_Proyecto2_RosibelLP\Proyecto con el cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a
+Cargado desde file:/C:/Users/carri/Downloads/db-derby-10.17.1.0-bin/db-derby-10.17.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=24.0.1+9-30
+user.dir=C:\Users\carri\Downloads\db-derby-10.17.1.0-bin\db-derby-10.17.1.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\carri\OneDrive\Documentos\GitHub\Nutrimind_Proyecto2_RosibelLP\Nutrimind_Proyecto2_RosibelLP
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
