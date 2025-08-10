@@ -9,5 +9,12 @@ package nutrimind_proyecto2_rosibellp.dao;
  * @author carri
  */
 public class PruebaConexion {
+    public static void main(String[] args) {
+        try (var con = new ConexionDB().conectar()) {
+            System.out.println("Conexión OK");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
     
 }

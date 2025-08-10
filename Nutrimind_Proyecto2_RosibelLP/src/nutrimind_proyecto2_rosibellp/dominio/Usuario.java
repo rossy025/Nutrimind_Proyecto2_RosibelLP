@@ -12,7 +12,7 @@ public class Usuario {
     
     private int idUsuario;
     private String usuario;
-    private String contrasena;
+    private String contraseña;
     private String rol;
 
     /**
@@ -46,15 +46,15 @@ public class Usuario {
     /**
      * @return the contrasena
      */
-    public String getContrasena() {
-        return contrasena;
+    public String getContraseña() {
+        return contraseña;
     }
 
     /**
      * @param contrasena the contrasena to set
      */
-    public void setContrasena(String contrasena) {
-        this.contrasena = contrasena;
+    public void setContraseña(String contraseña) {
+        this.contraseña = contraseña;
     }
 
     /**
